@@ -82,7 +82,7 @@
 ## 🏅 Contributions & Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saikumar-chev&theme=gruvbox&no-frame=true&margin-w=10&column=6" alt="SaiKumar's GitHub trophies" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikumar-chev&theme=dracula&hide_border=true&area=true" alt="SaiKumar's contribution graph" />
+  <img src="https://github.com/saikumar-chev/profile/blob/output/github-snake-dark.svg" alt="SaiKumar's contribution graph" />
 </div>
 
 ### Recent Contributions
