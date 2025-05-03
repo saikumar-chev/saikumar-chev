@@ -12,7 +12,7 @@
 
 ## 🌟 About Me
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saikumar-chev/profile/main/sk1.jpg" width="170" style="border-radius:50%; border: 4px solid #FF6F61;" alt="SaiKumar Chevella's profile picture" />
+  <img src="https://github.com/saikumar-chev/profile/blob/main/sai.png" width="170" style="border-radius:50%; border: 4px solid #FF6F61;" alt="SaiKumar Chevella's profile picture" />
 </div>
 
 <p align="center">
