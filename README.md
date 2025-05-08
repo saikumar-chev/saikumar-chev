@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  👋 Hey there! I'm <b>SaiKumar Chevella</b>, a <b>Front-End Developer & Test Engineer</b> based in <b>Hyderabad, India</b>. I thrive on crafting sleek web interfaces and automating workflows with code. My mission? To transform ideas into vibrant, user-friendly solutions that spark joy and efficiency! ✨
+  👋 Hey there! I'm <b>SaiKumar Chevella</b>, a <b>Full stack developer & Test Engineer</b> based in <b>Hyderabad, India</b>. I thrive on crafting sleek web interfaces and automating workflows with code. My mission? To transform ideas into vibrant, user-friendly solutions that spark joy and efficiency! ✨
 </p>
 
 - 🚀 **Currently Building**: A personal portfolio website using JavaScript and CSS
